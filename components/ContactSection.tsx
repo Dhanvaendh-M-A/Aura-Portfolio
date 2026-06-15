@@ -49,19 +49,19 @@ export default function ContactSection() {
     {
       icon: Mail,
       label: "Email",
-      value: "hello@aura.dev",
-      href: "mailto:hello@aura.dev",
+      value: "m.a.dhanvaendh@gmail.com",
+      href: "mailto:m.a.dhanvaendh@gmail.com",
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567",
+      value: "+91 8248307514",
+      href: "tel:+918248307514",
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "San Francisco, CA",
+      value: "Namakkal, Tamil Nadu, India",
       href: "#",
     },
   ]
