@@ -122,9 +122,9 @@ export default function HeroSection() {
           className="flex items-center justify-center gap-6"
         >
           {[
-            { icon: Github, href: "https://github.com", label: "GitHub" },
-            { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-            { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
+            { icon: Github, href: "https://github.com/Dhanvaendh-M-A", label: "GitHub" },
+            { icon: Linkedin, href: "https://www.linkedin.com/in/dhanvaendh-m-a-093238239", label: "LinkedIn" },
+            { icon: Twitter, href: "https://https://x.com/Dhanvaendh_M_A.com", label: "Twitter" },
           ].map((social) => {
             const Icon = social.icon
             return (

@@ -10,10 +10,10 @@ export default function Footer() {
   }
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-    { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
-    { icon: Dribbble, href: "https://dribbble.com", label: "Dribbble" },
+    { icon: Github, href: "https://github.com/Dhanvaendh-M-A", label: "GitHub" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/dhanvaendh-m-a-093238239", label: "LinkedIn" },
+      { icon: Twitter, href: "https://twitter.com/Dhanvaendh_M_A", label: "Twitter" },
+    { icon: Dribbble, href: "https://dribbble.com/dhanvaendh-m-a", label: "Dribbble" },
   ]
 
   return (

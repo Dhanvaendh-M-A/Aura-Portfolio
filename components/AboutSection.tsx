@@ -160,11 +160,11 @@ export default function AboutSection() {
                   <div className="w-32 h-32 rounded-full mx-auto mb-6 relative overflow-hidden">
                     <div className="absolute inset-0 bg-gradient-to-br from-aura-primary to-aura-secondary animate-spin-slow" />
                     <div className="absolute inset-1 rounded-full bg-aura-dark flex items-center justify-center">
-                      <span className="text-4xl font-bold text-gradient">JD</span>
+                      <span className="text-4xl font-bold text-gradient">D</span>
                     </div>
                   </div>
 
-                  <h3 className="text-2xl font-bold text-center mb-2">John Doe</h3>
+                  <h3 className="text-2xl font-bold text-center mb-2">Dhanvaendh M A</h3>
                   <p className="text-center text-white/60 mb-6">Full Stack Developer</p>
 
                   <div className="flex flex-wrap gap-2 justify-center">
